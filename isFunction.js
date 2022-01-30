@@ -4,7 +4,7 @@
 * @returns {boolean}
 */
 
-function inFunction(value){
+function isFunction(value){
   return typeof value === 'function'
 }
 
