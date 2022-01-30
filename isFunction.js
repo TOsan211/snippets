@@ -8,4 +8,4 @@ function isFunction(value){
   return typeof value === 'function'
 }
 
-export default inFunction
+export default isFunction
