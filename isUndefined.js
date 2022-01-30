@@ -8,6 +8,6 @@
 var _undefined = void 0;
 
 function isUndefined(value){
-  return typeof value === _undefined;
+  return value === _undefined;
 }
 export default isUndefined
