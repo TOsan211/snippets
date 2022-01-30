@@ -7,7 +7,7 @@
 */
 var _undefined = void 0;
 
-function isUndifined(value){
+function isUndefined(value){
   return typeof value === _undefined;
 }
-export default isUndifined
+export default isUndefined
